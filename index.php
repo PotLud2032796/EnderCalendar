@@ -8,7 +8,9 @@
     </head>
 
     <body>
-        <h1>hello world</h1>
+        <div id="header">
+            <h1>Ajouter un membre</h1>
+        </div>
     </body>
 
 </html>
